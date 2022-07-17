@@ -5,6 +5,7 @@ Testing readme design...
 ### List of Technologies: <br/> 
 
 <hr/>
+
 ### GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furs1da&show_icons=true&theme=tokyonight) <br/>
