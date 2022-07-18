@@ -7,7 +7,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Dmytrii_Furs-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCP2ofEbGBV8NhgWXQbow8lQ/videos)](https://www.youtube.com/channel/UCP2ofEbGBV8NhgWXQbow8lQ/videos)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Dmytrii%20Furs)](https://twitter.com/DmytriiFurs)
 [![Gmail Badge](https://img.shields.io/badge/-furs1268@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:furs1268@gmail.com)](mailto:furs1268@gmail.com)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)(https://leetcode.com/furs1da/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/furs1da/)
 
 <hr/>
 
