@@ -4,6 +4,8 @@
 
 ### Introduction: <br/>
 
+Hello 👋! My name is Dima 👨‍💻. I am 3rd year student pursuing Advanced Diploma 🎓 in Computer Programming and Analysis at Conestoga College 🏫. I am an open-minded person with a huge desire to work 📈 and study 📚. Right now I am learning MERN :electron: stack and some advanced algortihms 🧮.  
+
 <hr/>
 
 ### Social Media: <br/>
