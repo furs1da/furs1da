@@ -4,7 +4,7 @@
 
 ### Introduction: <br/>
 
-Hello 👋! My name is Dima 👨‍💻. I am an upcoming New Grad (Advanced Diploma) 🎓 in Computer Programming and Analysis at Conestoga College 🏫. I am an open-minded person with a huge desire to work 📈 and study 📚. Right now, I am actively learning MERN :electron: stack and some advanced algorithms  🧮.
+Hello 👋! My name is Dima 👨‍💻. I am an upcoming New Grad (Advanced Diploma) 🎓 in Computer Programming and Analysis at Conestoga College 🏫. I am an open-minded person with a huge desire to work 📈 and study 📚. 
 
 <hr/>
 
