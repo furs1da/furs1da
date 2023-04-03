@@ -47,7 +47,7 @@ Hello 👋! My name is Dima 👨‍💻. I am an upcoming New Grad (Advanced Dip
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furs1da&show_icons=true&theme=tokyonight) <br/>
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furs1da&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furs1da&layout=compact)](https://github.com/furs1da/github-readme-stats)
 
 <hr/>
 
