@@ -1,7 +1,5 @@
 ## 👨‍💻 Good to see you here! <img src="https://user-images.githubusercontent.com/45331164/179427512-c8c7022d-dc99-4c33-b65d-73d73b01d033.gif" data-canonical-src="https://user-images.githubusercontent.com/45331164/179427512-c8c7022d-dc99-4c33-b65d-73d73b01d033.gif"  width="30"/>
 
-<img src="https://user-images.githubusercontent.com/45331164/179427339-12f07c18-0b3d-489f-b362-680a9ce67143.gif" data-canonical-src="https://user-images.githubusercontent.com/45331164/179427339-12f07c18-0b3d-489f-b362-680a9ce67143.gif"  />
-
 ### Introduction: <br/>
 
 Hello 👋! My name is Dima 👨‍💻. I am an upcoming New Grad (Advanced Diploma) 🎓 in Computer Programming and Analysis at Conestoga College 🏫. I am an open-minded person with a huge desire to work 📈 and study 📚. 
