@@ -2,7 +2,7 @@
 
 ### Introduction: <br/>
 
-Hello 👋! My name is Dima 👨‍💻. I am an upcoming New Grad (Advanced Diploma) 🎓 in Computer Programming and Analysis at Conestoga College 🏫. I am an open-minded person with a huge desire to work 📈 and study 📚. 
+Hello 👋! I'm Dima and I work for REA Inc. as a Full Stack Developer! 👨‍💻
 
 <hr/>
 
